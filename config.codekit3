@@ -40,6 +40,24 @@
       "sC" : 3,
       "tS" : 0
     },
+    "\/design\/launch.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/design\/launch.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/design\/rocket.sketch" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/design\/rocket.sketch",
+      "oF" : 0
+    },
     "\/dev\/content\/svg-container.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -62,38 +80,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/dev\/content\/svg\/foreground.html",
-      "oF" : 0
-    },
-    "\/dev\/content\/svg\/foreground\/middle\/mtn-front-left.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/content\/svg\/foreground\/middle\/mtn-front-left.html",
-      "oF" : 0
-    },
-    "\/dev\/content\/svg\/foreground\/middle\/mtn-front-right.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/content\/svg\/foreground\/middle\/mtn-front-right.html",
-      "oF" : 0
-    },
-    "\/dev\/content\/svg\/foreground\/middle\/orange-mtn.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/content\/svg\/foreground\/middle\/orange-mtn.html",
-      "oF" : 0
-    },
-    "\/dev\/content\/svg\/foreground\/middle\/red-mtn.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/content\/svg\/foreground\/middle\/red-mtn.html",
       "oF" : 0
     },
     "\/dev\/content\/svg\/moon.kit" : {
