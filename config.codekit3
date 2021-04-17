@@ -52,7 +52,7 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/dev\/content\/svg\/background.html",
       "oF" : 0
     },
@@ -60,7 +60,7 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/dev\/content\/svg\/foreground.html",
       "oF" : 0
     },
@@ -100,7 +100,7 @@
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
-      "oA" : 1,
+      "oA" : 0,
       "oAP" : "\/dev\/content\/svg\/moon.html",
       "oF" : 0
     },
