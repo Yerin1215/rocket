@@ -82,6 +82,14 @@
       "oAP" : "\/dev\/content\/svg\/foreground.html",
       "oF" : 0
     },
+    "\/dev\/content\/svg\/foreground\/front\/front.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/svg\/foreground\/front\/front.html",
+      "oF" : 0
+    },
     "\/dev\/content\/svg\/foreground\/middle\/mtm-behind.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -130,6 +138,17 @@
       "oAP" : "\/deploy\/index.html",
       "oF" : 2
     },
+    "\/dev\/js\/fadein.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 1,
+      "oAP" : "\/dev\/js\/fadein-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
+    },
     "\/dev\/js\/scripts.js" : {
       "bF" : 4,
       "ft" : 64,
@@ -138,6 +157,17 @@
       "oA" : 0,
       "oAP" : "\/deploy\/js\/scripts-min.js",
       "oF" : 2,
+      "sC" : 3,
+      "tS" : 0
+    },
+    "\/dev\/js\/zoomin.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 1,
+      "oAP" : "\/dev\/js\/zoomin-min.js",
+      "oF" : 0,
       "sC" : 3,
       "tS" : 0
     },
