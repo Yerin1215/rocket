@@ -3,13 +3,19 @@ import { GSDevTools } from "gsap/GSDevTools";
 
 import { zoomTL } from "./zoomIn"
 import { fadeInTL } from "./fadeIn"
+import { spaceShipTL } from "./space-ship"
 
 gsap.registerPlugin(GSDevTools);
 
 let mainTL = gsap.timeline();
 
 mainTL.add(fadeInTL)
-    .add(zoomTL);
+      .add(zoomTL)
+      .addLabel("marker")
+      .add(spaceShipTL);
 
 
-GSDevTools.create();
+      mainTL.play("marker");
+
+
+// GSDevTools.create();
