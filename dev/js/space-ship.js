@@ -11,7 +11,7 @@ gsap.set("#top-part",{transformOrigin: "center"});
 
 
 
-spaceShipTL.from("#space-ship",{y:"+=500", duration:0.5})
+spaceShipTL.from("#space-ship",{y:"+=700", duration:0.5})
             .from("#window",{scale:0, duration:0.5})
             .from("#person",{scale:0, duration:0.4})
             // .from("#top-part",{scale: 0, duration:0.5})

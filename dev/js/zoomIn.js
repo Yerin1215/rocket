@@ -7,6 +7,7 @@ gsap.set("#mtn-front",{transformOrigin:"center"});
 gsap.set(".trees",{transformOrigin:"center"});
 gsap.set("#ground",{transformOrigin:"center"});
 
+
 zoomTL.from("#mtn-behind",{duration:6, scale:6,ease: "power4.out",y:"+=1800"},"zoom")
             .from("#mtn-front",{duration:5, scale:5,ease: "power4.out",y:"+=800"},"zoom")
             .from("#ground",{duration:3, scale: 1.5,ease: "power4.out",y:"+=420"},"zoom")
