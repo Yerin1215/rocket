@@ -16,7 +16,7 @@ flightTL.to("#space-ship", {
     ease: "power4.out"
 })
 .to("#moon",{alpha:1, duration:2, x:"+=530", y:"-=640", scale: 5, ease: "none"},"-=13")
-.to(".flames",{opacity: 0}, "-=13")
+.to(".flames",{opacity: 0}, "-=8")
 
 
 
