@@ -14,3 +14,4 @@ zoomTL.from("#mtn-behind",{duration:6, scale:6,ease: "power4.out",y:"+=1800"},"z
             .from("#trees-3",{duration:5, scale:2,ease: "power4.out",y:"+=450"},"zoom")
             .from("#trees-2",{duration:5, scale:3,ease: "power4.out",y:"+=450"},"zoom")
             .from("#trees-1",{duration:4.75, scale:3,ease: "power4.out",y:"+=420"},"zoom")
+            .from("#moon",{opacity:0})

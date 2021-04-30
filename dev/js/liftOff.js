@@ -14,6 +14,7 @@ liftOffTL.to("#space-ship",{duration:0.15, rotation:-8,ease:"none"})
         .to("#space-ship",{duration:5, y:"-=1200", scale: 0.6, ease: "power3.in"},"upAndAway")
         .to("#clouds",{duration:5.5, y:"+=1200", ease: "power3.in"},'upAndAway')
         .to("#front",{duration:5.5, y:"+=1000", ease: "power3.in"},'upAndAway')
+        .to("#moon",{duration:5.5, y:"+=1000", ease: "power3.in"},'upAndAway')
         .to("#middle",{duration:5.5, y:"+=1000", ease: "power3.in"},'upAndAway')
         .from("#space",{duration:5,alpha:0, ease: "power3.in"},'upAndAway');
 
