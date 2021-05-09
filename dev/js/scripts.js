@@ -6,7 +6,7 @@ import { fadeInTL } from "./fadeIn"
 import { spaceShipTL } from "./space-ship"
 import { liftOffTL } from "./liftOff"
 import { flightTL } from "./flightPath"
-import { moonZoomOutTL } from "./moonZoom"
+import { moonZoomTL } from "./moonZoom"
 
 gsap.registerPlugin(GSDevTools);
 
@@ -18,7 +18,7 @@ mainTL.add(fadeInTL)
       .add(liftOffTL)
       // .addLabel("marker")
       .add(flightTL)
-      .add(moonZoomOutTL);
+      .add(moonZoomTL);
 
 
       // mainTL.play("marker");
@@ -26,4 +26,4 @@ mainTL.add(fadeInTL)
 
 // console.log(numberThing);
 
-GSDevTools.create();
+// GSDevTools.create();
