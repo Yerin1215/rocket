@@ -16,13 +16,13 @@ mainTL.add(fadeInTL)
       .add(zoomTL)
       .add(spaceShipTL) 
       .add(liftOffTL)
-      // .addLabel("marker")
+      .addLabel("marker")
       .add(flightTL)
       .add(moonZoomTL);
 
 
-      // mainTL.play("marker");
-     mainTL.play();
+      mainTL.play("marker");
+//      mainTL.play();
 
 // console.log(numberThing);
 
