@@ -17,8 +17,10 @@ flightTL.to("#space-ship", {
 })
 .to("#moon",{alpha:1, duration:2, x:"+=530", y:"-=640", scale: 5, ease: "none"},"-=13")
 .to(".flames",{opacity: 0}, "-=8")
-.to("#space-ship",{duration:2.7, y:"-=1200", x:"-=100", scale: 0.6}, 'upAndAway', "-=3.5")
-.to("#moon",{opacity:"0"}, "-=1.5")
+
+// .to("#space-ship",{duration:2.7, y:"-=1200", x:"-=100", scale: 0.6}, 'upAndAway', "-=6.5")
+// .to(".flames",{opacity: 1}, "-=6")
+// .to("#moon",{opacity:"0"}, "-=1.5")
 
 
 
