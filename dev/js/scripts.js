@@ -16,14 +16,14 @@ mainTL.add(fadeInTL)
       .add(zoomTL)
       .add(spaceShipTL) 
       .add(liftOffTL)
-      .addLabel("marker")
+      // .addLabel("marker")
       .add(flightTL)
       .add(moonZoomOutTL);
 
 
-      mainTL.play("marker");
-//      mainTL.play();
+      // mainTL.play("marker");
+     mainTL.play();
 
 // console.log(numberThing);
 
-// GSDevTools.create();
+GSDevTools.create();
