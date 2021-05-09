@@ -1,5 +1,7 @@
 import { gsap } from "gsap";
+
 gsap.set("#moon",{transformOrigin:"center bottom"});
 
-export let moonZoomTL = gsap.timeline();
-// moonZoomTL.to("#moon",{alpha:1, duration:2, x:"+=530", y:"-=640", scale: 5, ease: "none"},"-=15")
+export let moonZoomOutTL = gsap.timeline();
+
+// moonZoomOutTL.to("#moon",{duration:4, y:"-=1200", scale: 0.6}, "-=13")
