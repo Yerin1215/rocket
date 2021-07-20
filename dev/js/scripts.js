@@ -21,7 +21,7 @@ mainTL.add(fadeInTL)
       .add(moonZoomTL);
 
 
-      // mainTL.play("marker");
+      mainTL.play("marker");
      mainTL.play();
 
 // console.log(numberThing);
